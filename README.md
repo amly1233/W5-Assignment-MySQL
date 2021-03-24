@@ -1,5 +1,8 @@
 要求三：基本的 SQL 指令
 
+● 使用 INSERT 指令新增一筆資料到 user 資料表中，這筆資料的 username 和
+password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。
+
 ● 使用 SELECT 指令取得所有在 user 資料表中的使用者資料。
 
 <img width="443" alt="截圖 2021-03-24 下午1 19 44" src="https://user-images.githubusercontent.com/74479902/112259645-9b6b7200-8ca3-11eb-9f25-d9e39f783d50.png">
