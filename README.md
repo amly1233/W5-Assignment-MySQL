@@ -22,7 +22,7 @@ password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。
 ● 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近
 到遠排序。
 
-<img width="441" alt="截圖 2021-03-24 下午1 34 57" src="https://user-images.githubusercontent.com/74479902/112260872-bc34c700-8ca5-11eb-8b6e-b1d62df316b9.png">
+<img width="458" alt="截圖 2021-03-24 下午5 46 41" src="https://user-images.githubusercontent.com/74479902/112289046-e6e44700-8cc8-11eb-928f-35bf4ff065b7.png">
 
 
 
